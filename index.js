@@ -6,7 +6,7 @@ let git = ["sufriendo un poco con git", "ya estoy entendiendo... Gracias Amir"];
 let variable1 = ["probando error en github"]
 
 let git = [
-  "sufriendo un poco con git",
+  "sufriendo un poco con t",
   "ya estoy entendiendo... Gracias Amir",
   "forzando el error",
 ];
