@@ -1,1 +1,5 @@
-let git = ["sufriendo un poco con git", "ya estoy entendiendo... Gracias Amir"];
+let git = [
+  "sufriendo un poco con git",
+  "ya estoy entendiendo... Gracias Amir",
+  "forzando el error",
+];
